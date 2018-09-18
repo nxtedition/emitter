@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-$ component install component-emitter2
+$ npm install component-emitter2
 ```
 
 ## API
